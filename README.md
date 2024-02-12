@@ -16,5 +16,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharmake2024&show_icons=true&locale=en&layout=compact" alt="sharmake2024" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharmake2024&show_icons=true&locale=en" alt="sharmake2024" /></p>
+
 
